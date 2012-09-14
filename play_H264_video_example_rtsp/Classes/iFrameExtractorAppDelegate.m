@@ -23,7 +23,8 @@
 #import "VideoFrameExtractor.h"
 #import "Utilities.h"
 
-//NSString * const VIDEO_NAME = @"test4.h264";
+
+NSString *githubTest;
 NSString * const VIDEO_NAME = @"rtsp://180.95.129.243:5546/server?userId=C193FBB9FF75591A8B133C7B5D1668FB&PuId-ChannelNo=280000000000000000111000006-1&PuProperty=0&StreamingType=2&VauPtzAdd=180.95.129.243&VauPtzPort=5066&VauRtspAdd=180.95.129.243&VauRtspPort=5546&PuName=%E5%8D%97%E5%85%B3%E4%BB%80%E5%AD%97&PlayMethod=0";
 //NSString * const VIDEO_NAME = @"rtsp://218.204.223.237:554/live/1/66251FC11353191F/e7ooqwcfbqjoo80j.sdp";
 //NSString * const VIDEO_NAME = @"rtsp://172.16.20.129:8554/h264ESVideoTest";
